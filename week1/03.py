@@ -1,5 +1,5 @@
 while True:
-    number_input = int(input("Enter:"))
+    number_input = int(input("Enter"))
 
     if number_input == 0:
         break
