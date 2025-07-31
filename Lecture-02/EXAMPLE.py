@@ -1,4 +1,4 @@
-age = input("enter yourage : ")
+age = input("enter your age : ")
 age = int(age)
 
 height = input("enter your height: ")
