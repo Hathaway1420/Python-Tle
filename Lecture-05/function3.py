@@ -1,7 +1,10 @@
 def main():
     print('I have a message for you. ')
-message()
+    message()
 print('Goodbye!')
+
 def message():
-    print('I am Anirach,')
-    print('I Love Python.')
+    print('I am Pattarakorn,')
+    print('I hate Python.')
+
+main()
